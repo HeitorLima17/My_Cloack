@@ -1,0 +1,15 @@
+body{
+    background-color: lemonchiffon;
+}
+
+.clock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translatex(-50%) translateY(-50%);
+    color:darkslategray;
+    font-size: 60px;
+    font-family: monospace;
+    letter-spacing: 7px;
+    
+}
